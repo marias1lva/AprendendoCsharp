@@ -1,0 +1,14 @@
+C:\Csharp\projetos\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.exe
+C:\Csharp\projetos\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.deps.json
+C:\Csharp\projetos\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.runtimeconfig.json
+C:\Csharp\projetos\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.dll
+C:\Csharp\projetos\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.pdb
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.AssemblyInfoInputs.cache
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.AssemblyInfo.cs
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.dll
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\refint\NotasAluno.dll
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.pdb
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.genruntimeconfig.cache
+C:\Csharp\projetos\NotasAluno\NotasAluno\obj\Debug\net8.0\ref\NotasAluno.dll
