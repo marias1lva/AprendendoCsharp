@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\AreaTriangulosMetodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E4969A-0CD6-498D-A6A5-4928FF8B894B}|AreaTriangulosMetodo\\AreaTriangulosMetodo.csproj|c:\\csharp\\projetos\\areatriangulosmetodo\\areatriangulosmetodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E4969A-0CD6-498D-A6A5-4928FF8B894B}|AreaTriangulosMetodo\\AreaTriangulosMetodo.csproj|solutionrelative:areatriangulosmetodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E4969A-0CD6-498D-A6A5-4928FF8B894B}|AreaTriangulosMetodo\\AreaTriangulosMetodo.csproj|c:\\csharp\\projetos\\areatriangulosmetodo\\areatriangulosmetodo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E4969A-0CD6-498D-A6A5-4928FF8B894B}|AreaTriangulosMetodo\\AreaTriangulosMetodo.csproj|solutionrelative:areatriangulosmetodo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaTriangulosMetodo\\AreaTriangulosMetodo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "AreaTriangulosMetodo\\Triangulo.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaTriangulosMetodo\\AreaTriangulosMetodo\\Triangulo.cs",
+              "RelativeToolTip": "AreaTriangulosMetodo\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:37:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaTriangulosMetodo\\AreaTriangulosMetodo\\Program.cs",
+              "RelativeDocumentMoniker": "AreaTriangulosMetodo\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaTriangulosMetodo\\AreaTriangulosMetodo\\Program.cs*",
+              "RelativeToolTip": "AreaTriangulosMetodo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:33:42.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
