@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\ProdutoEmEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABD802E-4796-4A52-8581-68F135C6C884}|ProdutoEmEstoque\\ProdutoEmEstoque.csproj|c:\\csharp\\projetos\\produtoemestoque\\produtoemestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABD802E-4796-4A52-8581-68F135C6C884}|ProdutoEmEstoque\\ProdutoEmEstoque.csproj|solutionrelative:produtoemestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABD802E-4796-4A52-8581-68F135C6C884}|ProdutoEmEstoque\\ProdutoEmEstoque.csproj|c:\\csharp\\projetos\\produtoemestoque\\produtoemestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABD802E-4796-4A52-8581-68F135C6C884}|ProdutoEmEstoque\\ProdutoEmEstoque.csproj|solutionrelative:produtoemestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\ProdutoEmEstoque\\ProdutoEmEstoque\\Produto.cs",
+              "RelativeDocumentMoniker": "ProdutoEmEstoque\\Produto.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\ProdutoEmEstoque\\ProdutoEmEstoque\\Produto.cs",
+              "RelativeToolTip": "ProdutoEmEstoque\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:03:47.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\ProdutoEmEstoque\\ProdutoEmEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoEmEstoque\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\ProdutoEmEstoque\\ProdutoEmEstoque\\Program.cs",
+              "RelativeToolTip": "ProdutoEmEstoque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:01:50.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
