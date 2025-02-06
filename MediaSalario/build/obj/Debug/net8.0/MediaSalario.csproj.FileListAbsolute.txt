@@ -1,0 +1,14 @@
+C:\Csharp\projetos\MediaSalario\MediaSalario\bin\Debug\net8.0\MediaSalario.exe
+C:\Csharp\projetos\MediaSalario\MediaSalario\bin\Debug\net8.0\MediaSalario.deps.json
+C:\Csharp\projetos\MediaSalario\MediaSalario\bin\Debug\net8.0\MediaSalario.runtimeconfig.json
+C:\Csharp\projetos\MediaSalario\MediaSalario\bin\Debug\net8.0\MediaSalario.dll
+C:\Csharp\projetos\MediaSalario\MediaSalario\bin\Debug\net8.0\MediaSalario.pdb
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.AssemblyInfoInputs.cache
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.AssemblyInfo.cs
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.dll
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\refint\MediaSalario.dll
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.pdb
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\MediaSalario.genruntimeconfig.cache
+C:\Csharp\projetos\MediaSalario\MediaSalario\obj\Debug\net8.0\ref\MediaSalario.dll

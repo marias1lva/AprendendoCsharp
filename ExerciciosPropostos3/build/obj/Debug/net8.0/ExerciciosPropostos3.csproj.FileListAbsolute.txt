@@ -1,0 +1,14 @@
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\net8.0\ExerciciosPropostos3.exe
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\net8.0\ExerciciosPropostos3.deps.json
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\net8.0\ExerciciosPropostos3.runtimeconfig.json
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\net8.0\ExerciciosPropostos3.dll
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\net8.0\ExerciciosPropostos3.pdb
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.AssemblyInfoInputs.cache
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.AssemblyInfo.cs
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.dll
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\refint\ExerciciosPropostos3.dll
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.pdb
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ExerciciosPropostos3.genruntimeconfig.cache
+C:\Csharp\projetos\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\net8.0\ref\ExerciciosPropostos3.dll

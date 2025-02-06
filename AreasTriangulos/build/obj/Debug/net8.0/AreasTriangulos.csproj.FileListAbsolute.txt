@@ -1,0 +1,14 @@
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\bin\Debug\net8.0\AreasTriangulos.exe
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\bin\Debug\net8.0\AreasTriangulos.deps.json
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\bin\Debug\net8.0\AreasTriangulos.runtimeconfig.json
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\bin\Debug\net8.0\AreasTriangulos.dll
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\bin\Debug\net8.0\AreasTriangulos.pdb
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.AssemblyInfoInputs.cache
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.AssemblyInfo.cs
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.dll
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\refint\AreasTriangulos.dll
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.pdb
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\AreasTriangulos.genruntimeconfig.cache
+C:\Csharp\projetos\AreasTriangulos\AreasTriangulos\obj\Debug\net8.0\ref\AreasTriangulos.dll

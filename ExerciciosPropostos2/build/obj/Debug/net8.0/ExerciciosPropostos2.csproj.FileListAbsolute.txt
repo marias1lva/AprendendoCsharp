@@ -1,0 +1,14 @@
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net8.0\ExerciciosPropostos2.exe
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net8.0\ExerciciosPropostos2.deps.json
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net8.0\ExerciciosPropostos2.runtimeconfig.json
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net8.0\ExerciciosPropostos2.dll
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net8.0\ExerciciosPropostos2.pdb
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.AssemblyInfoInputs.cache
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.AssemblyInfo.cs
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.dll
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\refint\ExerciciosPropostos2.dll
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.pdb
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ExerciciosPropostos2.genruntimeconfig.cache
+C:\Csharp\projetos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net8.0\ref\ExerciciosPropostos2.dll
