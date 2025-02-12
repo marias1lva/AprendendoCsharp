@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Csharp\\projetos\\CotacaoDolar2\\CotacaoDolar2\\ProdutosLoja.csproj": {}
+    "C:\\Csharp\\projetos\\AprendendoCsharp\\ProdutosLoja\\CotacaoDolar2\\ProdutosLoja.csproj": {}
   },
   "projects": {
-    "C:\\Csharp\\projetos\\CotacaoDolar2\\CotacaoDolar2\\ProdutosLoja.csproj": {
+    "C:\\Csharp\\projetos\\AprendendoCsharp\\ProdutosLoja\\CotacaoDolar2\\ProdutosLoja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Csharp\\projetos\\CotacaoDolar2\\CotacaoDolar2\\ProdutosLoja.csproj",
+        "projectUniqueName": "C:\\Csharp\\projetos\\AprendendoCsharp\\ProdutosLoja\\CotacaoDolar2\\ProdutosLoja.csproj",
         "projectName": "ProdutosLoja",
-        "projectPath": "C:\\Csharp\\projetos\\CotacaoDolar2\\CotacaoDolar2\\ProdutosLoja.csproj",
+        "projectPath": "C:\\Csharp\\projetos\\AprendendoCsharp\\ProdutosLoja\\CotacaoDolar2\\ProdutosLoja.csproj",
         "packagesPath": "C:\\Users\\maria.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Csharp\\projetos\\CotacaoDolar2\\CotacaoDolar2\\obj\\",
+        "outputPath": "C:\\Csharp\\projetos\\AprendendoCsharp\\ProdutosLoja\\CotacaoDolar2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
