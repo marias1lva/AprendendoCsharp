@@ -1,0 +1,14 @@
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\bin\Debug\net8.0\ProdutosLoja.exe
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\bin\Debug\net8.0\ProdutosLoja.deps.json
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\bin\Debug\net8.0\ProdutosLoja.runtimeconfig.json
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\bin\Debug\net8.0\ProdutosLoja.dll
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\bin\Debug\net8.0\ProdutosLoja.pdb
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.AssemblyInfoInputs.cache
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.AssemblyInfo.cs
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.dll
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\refint\ProdutosLoja.dll
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.pdb
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ProdutosLoja.genruntimeconfig.cache
+C:\Csharp\projetos\CotacaoDolar2\CotacaoDolar2\obj\Debug\net8.0\ref\ProdutosLoja.dll
