@@ -1,0 +1,14 @@
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\bin\Debug\net8.0\ProdutosLoja4.exe
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\bin\Debug\net8.0\ProdutosLoja4.deps.json
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\bin\Debug\net8.0\ProdutosLoja4.runtimeconfig.json
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\bin\Debug\net8.0\ProdutosLoja4.dll
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\bin\Debug\net8.0\ProdutosLoja4.pdb
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.AssemblyInfoInputs.cache
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.AssemblyInfo.cs
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.dll
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\refint\ProdutosLoja4.dll
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.pdb
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ProdutosLoja4.genruntimeconfig.cache
+C:\Csharp\projetos\ProdutosLoja4\ProdutosLoja4\obj\Debug\net8.0\ref\ProdutosLoja4.dll
