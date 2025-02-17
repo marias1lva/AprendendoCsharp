@@ -1,0 +1,14 @@
+C:\Csharp\projetos\Pensao\Pensao\bin\Debug\net8.0\Pensao.exe
+C:\Csharp\projetos\Pensao\Pensao\bin\Debug\net8.0\Pensao.deps.json
+C:\Csharp\projetos\Pensao\Pensao\bin\Debug\net8.0\Pensao.runtimeconfig.json
+C:\Csharp\projetos\Pensao\Pensao\bin\Debug\net8.0\Pensao.dll
+C:\Csharp\projetos\Pensao\Pensao\bin\Debug\net8.0\Pensao.pdb
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.AssemblyInfoInputs.cache
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.AssemblyInfo.cs
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.dll
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\refint\Pensao.dll
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.pdb
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\Pensao.genruntimeconfig.cache
+C:\Csharp\projetos\Pensao\Pensao\obj\Debug\net8.0\ref\Pensao.dll
