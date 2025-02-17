@@ -1,0 +1,14 @@
+C:\Csharp\projetos\LacoForeach\LacoForeach\bin\Debug\net8.0\LacoForeach.exe
+C:\Csharp\projetos\LacoForeach\LacoForeach\bin\Debug\net8.0\LacoForeach.deps.json
+C:\Csharp\projetos\LacoForeach\LacoForeach\bin\Debug\net8.0\LacoForeach.runtimeconfig.json
+C:\Csharp\projetos\LacoForeach\LacoForeach\bin\Debug\net8.0\LacoForeach.dll
+C:\Csharp\projetos\LacoForeach\LacoForeach\bin\Debug\net8.0\LacoForeach.pdb
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.AssemblyInfoInputs.cache
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.AssemblyInfo.cs
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.dll
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\refint\LacoForeach.dll
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.pdb
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\LacoForeach.genruntimeconfig.cache
+C:\Csharp\projetos\LacoForeach\LacoForeach\obj\Debug\net8.0\ref\LacoForeach.dll
