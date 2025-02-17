@@ -1,0 +1,14 @@
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.exe
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.deps.json
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.runtimeconfig.json
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.dll
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.pdb
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.AssemblyInfo.cs
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.dll
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\refint\ModificadorDeParametros.dll
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.pdb
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.genruntimeconfig.cache
+C:\Csharp\projetos\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net8.0\ref\ModificadorDeParametros.dll
