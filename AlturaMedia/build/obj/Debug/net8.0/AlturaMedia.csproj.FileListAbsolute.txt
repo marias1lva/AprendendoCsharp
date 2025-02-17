@@ -1,0 +1,14 @@
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\bin\Debug\net8.0\AlturaMedia.exe
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\bin\Debug\net8.0\AlturaMedia.deps.json
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\bin\Debug\net8.0\AlturaMedia.runtimeconfig.json
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\bin\Debug\net8.0\AlturaMedia.dll
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\bin\Debug\net8.0\AlturaMedia.pdb
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.AssemblyInfoInputs.cache
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.AssemblyInfo.cs
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.dll
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\refint\AlturaMedia.dll
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.pdb
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\AlturaMedia.genruntimeconfig.cache
+C:\Csharp\projetos\AlturaMedia\AlturaMedia\obj\Debug\net8.0\ref\AlturaMedia.dll
