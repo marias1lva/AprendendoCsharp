@@ -1,0 +1,14 @@
+C:\Csharp\projetos\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.exe
+C:\Csharp\projetos\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.deps.json
+C:\Csharp\projetos\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.runtimeconfig.json
+C:\Csharp\projetos\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.dll
+C:\Csharp\projetos\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.pdb
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfo.cs
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.dll
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\refint\TimeSpan.dll
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.pdb
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.genruntimeconfig.cache
+C:\Csharp\projetos\TimeSpan\TimeSpan\obj\Debug\net8.0\ref\TimeSpan.dll
