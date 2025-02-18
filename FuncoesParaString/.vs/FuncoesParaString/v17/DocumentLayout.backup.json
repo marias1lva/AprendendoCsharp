@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\FuncoesParaString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2FA18D-C2AB-4854-8A40-78363426DDA8}|FuncoesParaString\\FuncoesParaString.csproj|c:\\csharp\\projetos\\funcoesparastring\\funcoesparastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2FA18D-C2AB-4854-8A40-78363426DDA8}|FuncoesParaString\\FuncoesParaString.csproj|solutionrelative:funcoesparastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\FuncoesParaString\\FuncoesParaString\\Program.cs",
+              "RelativeDocumentMoniker": "FuncoesParaString\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\FuncoesParaString\\FuncoesParaString\\Program.cs",
+              "RelativeToolTip": "FuncoesParaString\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:15:39.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
