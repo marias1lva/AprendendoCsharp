@@ -1,0 +1,15 @@
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.exe
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.deps.json
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.runtimeconfig.json
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.dll
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.pdb
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.sourcelink.json
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.dll
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\refint\ExercicioMatriz.dll
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.pdb
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Csharp\projetos\AprendendoCsharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ref\ExercicioMatriz.dll
