@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\AumentoSalario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F513959-BB07-4067-A7F3-CD4B4C32485F}|AumentoSalario\\AumentoSalario.csproj|c:\\csharp\\projetos\\aumentosalario\\aumentosalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F513959-BB07-4067-A7F3-CD4B4C32485F}|AumentoSalario\\AumentoSalario.csproj|solutionrelative:aumentosalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F513959-BB07-4067-A7F3-CD4B4C32485F}|AumentoSalario\\AumentoSalario.csproj|c:\\csharp\\projetos\\aumentosalario\\aumentosalario\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F513959-BB07-4067-A7F3-CD4B4C32485F}|AumentoSalario\\AumentoSalario.csproj|solutionrelative:aumentosalario\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AumentoSalario\\AumentoSalario\\Employee.cs",
+              "RelativeDocumentMoniker": "AumentoSalario\\Employee.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AumentoSalario\\AumentoSalario\\Employee.cs",
+              "RelativeToolTip": "AumentoSalario\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:17:57.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AumentoSalario\\AumentoSalario\\Program.cs",
+              "RelativeDocumentMoniker": "AumentoSalario\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AumentoSalario\\AumentoSalario\\Program.cs",
+              "RelativeToolTip": "AumentoSalario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:15:12.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
