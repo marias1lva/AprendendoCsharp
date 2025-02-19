@@ -1,0 +1,14 @@
+C:\Csharp\projetos\BankAccount2\BankAccount2\bin\Debug\net8.0\BankAccount2.exe
+C:\Csharp\projetos\BankAccount2\BankAccount2\bin\Debug\net8.0\BankAccount2.deps.json
+C:\Csharp\projetos\BankAccount2\BankAccount2\bin\Debug\net8.0\BankAccount2.runtimeconfig.json
+C:\Csharp\projetos\BankAccount2\BankAccount2\bin\Debug\net8.0\BankAccount2.dll
+C:\Csharp\projetos\BankAccount2\BankAccount2\bin\Debug\net8.0\BankAccount2.pdb
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.AssemblyInfoInputs.cache
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.AssemblyInfo.cs
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.csproj.CoreCompileInputs.cache
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.dll
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\refint\BankAccount2.dll
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.pdb
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\BankAccount2.genruntimeconfig.cache
+C:\Csharp\projetos\BankAccount2\BankAccount2\obj\Debug\net8.0\ref\BankAccount2.dll
