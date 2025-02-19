@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\AreaDasFiguras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|c:\\csharp\\projetos\\areadasfiguras\\areadasfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|solutionrelative:areadasfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|c:\\csharp\\projetos\\areadasfiguras\\areadasfiguras\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|solutionrelative:areadasfiguras\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|c:\\csharp\\projetos\\areadasfiguras\\areadasfiguras\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|solutionrelative:areadasfiguras\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|c:\\csharp\\projetos\\areadasfiguras\\areadasfiguras\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|solutionrelative:areadasfiguras\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|c:\\csharp\\projetos\\areadasfiguras\\areadasfiguras\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1C518-237F-419A-9C2A-55B1CD86F1A9}|AreaDasFiguras\\AreaDasFiguras.csproj|solutionrelative:areadasfiguras\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "AreaDasFiguras\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Circle.cs",
+              "RelativeToolTip": "AreaDasFiguras\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:49:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AreaDasFiguras\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "AreaDasFiguras\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:47:33.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "AreaDasFiguras\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "AreaDasFiguras\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:44:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "AreaDasFiguras\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Entities\\Shape.cs",
+              "RelativeToolTip": "AreaDasFiguras\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:43:55.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Program.cs",
+              "RelativeDocumentMoniker": "AreaDasFiguras\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\AreaDasFiguras\\AreaDasFiguras\\Program.cs",
+              "RelativeToolTip": "AreaDasFiguras\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:39:36.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
