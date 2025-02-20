@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\Imposto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|c:\\csharp\\projetos\\imposto\\imposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|solutionrelative:imposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|c:\\csharp\\projetos\\imposto\\imposto\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|solutionrelative:imposto\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|c:\\csharp\\projetos\\imposto\\imposto\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|solutionrelative:imposto\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|c:\\csharp\\projetos\\imposto\\imposto\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D747F3-EF45-4566-9AAF-598A85C30642}|Imposto\\Imposto.csproj|solutionrelative:imposto\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Imposto\\Entities\\Company.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\Company.cs",
+              "RelativeToolTip": "Imposto\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:34:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "Imposto\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\Individual.cs",
+              "RelativeToolTip": "Imposto\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:21:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "Imposto\\Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "Imposto\\Entities\\TaxPayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:19:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Program.cs",
+              "RelativeDocumentMoniker": "Imposto\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\Imposto\\Imposto\\Program.cs",
+              "RelativeToolTip": "Imposto\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:18:00.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
