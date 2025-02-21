@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\projetos\\UsandoArquivos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383E0E73-6349-46FF-B51C-1491DBB72F0B}|UsandoArquivos2\\UsandoArquivos2.csproj|c:\\csharp\\projetos\\usandoarquivos2\\usandoarquivos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383E0E73-6349-46FF-B51C-1491DBB72F0B}|UsandoArquivos2\\UsandoArquivos2.csproj|solutionrelative:usandoarquivos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\projetos\\UsandoArquivos2\\UsandoArquivos2\\Program.cs",
+              "RelativeDocumentMoniker": "UsandoArquivos2\\Program.cs",
+              "ToolTip": "C:\\Csharp\\projetos\\UsandoArquivos2\\UsandoArquivos2\\Program.cs",
+              "RelativeToolTip": "UsandoArquivos2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:44:59.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
