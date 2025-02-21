@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsandoArquivos3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b546c81c60fa65f93ce19137f35814b88fdbf59")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsandoArquivos3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsandoArquivos3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
