@@ -1,9 +1,9 @@
 # Ignorar pastas do Visual Studio
-.vs/
+build/.vs/
 
 # Ignorar pastas de build
-/bin/
-/obj/
+build/bin/
+build/obj/
 
 # Ignorar arquivos temporários
 *.user
