@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Csharp\\projetos\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj": {}
+    "C:\\Csharp\\projetos\\AprendendoCsharp\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj": {}
   },
   "projects": {
-    "C:\\Csharp\\projetos\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj": {
+    "C:\\Csharp\\projetos\\AprendendoCsharp\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Csharp\\projetos\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj",
+        "projectUniqueName": "C:\\Csharp\\projetos\\AprendendoCsharp\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj",
         "projectName": "UsandoArquivos",
-        "projectPath": "C:\\Csharp\\projetos\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj",
+        "projectPath": "C:\\Csharp\\projetos\\AprendendoCsharp\\UsandoArquivos\\UsandoArquivos\\UsandoArquivos.csproj",
         "packagesPath": "C:\\Users\\maria.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Csharp\\projetos\\UsandoArquivos\\UsandoArquivos\\obj\\",
+        "outputPath": "C:\\Csharp\\projetos\\AprendendoCsharp\\UsandoArquivos\\UsandoArquivos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
