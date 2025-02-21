@@ -1,11 +1,20 @@
 # Ignorar pastas do Visual Studio
-build/.vs/
+.vs/
+.vscode/
 
 # Ignorar pastas de build
-build/bin/
-build/obj/
+bin/
+obj/
 
 # Ignorar arquivos temporários
 *.user
 *.suo
 *.log
+*.pdb
+*.db
+*.bak
+*.cache
+
+# Ignorar arquivos específicos de nuget
+project.assets.json
+project.nuget.cache
